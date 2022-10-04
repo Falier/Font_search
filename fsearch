@@ -1,0 +1,2 @@
+cd /usr/bin/ &&
+python3 -c "from fsearch import *; font_search(\"${1}\")"
